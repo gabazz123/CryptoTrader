@@ -7,3 +7,4 @@
 # set up paper trading
 # phist profits into holes
  
+
